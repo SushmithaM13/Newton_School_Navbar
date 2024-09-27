@@ -1,0 +1,35 @@
+#nav2{
+    width: 100%;
+    height: 70px;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: sans-serif;
+    background-color: #1d245a;
+    color: white;
+    font-weight: bold;
+}
+.logo{
+    width: 120px;
+    height: 40px;
+}
+#midnav{  
+    width: 800px;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 12px;
+   
+}
+#midnav > button{
+    width: 90px;
+    height: 40px;
+    border: 1px solid #0066ff;;
+    background-color: white;
+    border-radius: 8px;
+    font-size: 14px;
+   background-color: #0066ff;
+
+}
